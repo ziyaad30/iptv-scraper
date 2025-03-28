@@ -1872,6 +1872,12 @@ https://windnew.koskoros.ru/wind/premium395/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium137/mono.m3u8
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-3-ru.png" group-title="RUSSIA",Match Football 3 Russia
+#EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
+#EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium138/mono.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-premier-ru.png" group-title="RUSSIA",Match Premier Russia
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
