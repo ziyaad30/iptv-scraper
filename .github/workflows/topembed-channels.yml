@@ -1,7 +1,7 @@
 name: topembed-channels
 on:
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: pip install curl_cffi beautifulsoup4 fuzzywuzzy python-Levenshtein
 
-      - name: Download external Python script
+      - name: Run the script
         run: |
           curl -o topembed.py "${{ secrets.TOPEMBED_CHANNELS_URL }}"
 
