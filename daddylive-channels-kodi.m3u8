@@ -426,6 +426,9 @@ https://dokko1new.koskoros.ru/dokko1/premium802/mono.m3u8|Referer=https%3A%2F%2F
 #EXTINF:-1 tvg-id="M-Net.HD.za" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/m-net.png" group-title="SOUTH AFRICA",DSTV M-Net
 https://ddy6new.koskoros.ru/ddy6/premium827/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
+#EXTINF:-1 tvg-id="Mzansi.Magic.HD.za" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mzansi-magic.png" group-title="SOUTH AFRICA",DSTV Mzansi Magic
+https://windnew.koskoros.ru/wind/premium786/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
+
 #EXTINF:-1 tvg-id="Kyk.NET.&amp;.Kie.HD.za" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kyknet-and-kie.png" group-title="SOUTH AFRICA",DSTV kykNET & kie
 https://ddy6new.koskoros.ru/ddy6/premium828/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
