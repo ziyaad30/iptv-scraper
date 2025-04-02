@@ -51,7 +51,7 @@ jobs:
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add "${{ env.m_filename }}" "${{ env.t_filename }}" "${{ env.k_filename }}"
+          git add "${{ env.m_filename }}" "${{ env.t_filename }}"
           git diff --staged --quiet || git commit -m "Update epg"
           git push --force
         
