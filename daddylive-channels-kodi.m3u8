@@ -480,6 +480,9 @@ https://nfsnew.newkso.ru/nfs/premium652/mono.m3u8|Referer=https%3A%2F%2Fwebxzpla
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-xd.png" group-title="UNITED STATES",Disney XD
 https://zekonew.newkso.ru/zeko/premium314/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-racing.png" group-title="UNITED ARAB EMIRATES",Dubai Racing 1 UAE
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 1 UAE
 https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
@@ -1232,6 +1235,9 @@ https://windnew.newkso.ru/wind/premium853/mono.m3u8|Referer=https%3A%2F%2Fwebxzp
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rai-sport-it.png" group-title="ITALY",Rai Sport Italy
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
+
+#EXTINF:-1 tvg-id="Rally.TV.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rally-tv.png" group-title="UNITED STATES",Rally Tv
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
 #EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/real-madrid-tv-spain.png" group-title="SPAIN",Real Madrid TV Spain
 https://dokko1new.newkso.ru/dokko1/premium523/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
