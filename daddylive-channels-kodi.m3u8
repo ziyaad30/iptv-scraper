@@ -990,6 +990,9 @@ https://zekonew.newkso.ru/zeko/premium437/mono.m3u8|Referer=https%3A%2F%2Fwebxzp
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-supercopa.png" group-title="SPAIN",Movistar Supercopa de Espa�a
 https://zekonew.newkso.ru/zeko/premium437/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
+
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="UNITED STATES",NBA TV USA
 https://zekonew.newkso.ru/zeko/premium404/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
@@ -1844,6 +1847,9 @@ https://dokko1new.newkso.ru/dokko1/premium452/mono.m3u8|Referer=https%3A%2F%2Fwe
 
 #EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp-sport-poland.png" group-title="POLAND",TVP Sport Poland
 https://windnew.newkso.ru/wind/premium128/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
+
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp1-poland.png" group-title="POLAND",TVP1 Poland
+https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
 
 #EXTINF:-1 tvg-id="TVP.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp2-poland.png" group-title="POLAND",TVP2 Poland
 https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8|Referer=https%3A%2F%2Fwebxzplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fwebxzplay.cfd
