@@ -591,6 +591,9 @@ https://windnew.newkso.ru/wind/premium879/mono.m3u8|Referer=https://webxzplay.cf
 #EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" group-title="POLAND",EuroSport 2 Poland
 https://windnew.newkso.ru/wind/premium58/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" group-title="SPAIN",EuroSport 2 Spain
+https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
+
 #EXTINF:-1 tvg-id="Eurosport.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-1.png" group-title="BULGARIA",Eurosport 1 Bulgaria
 https://windnew.newkso.ru/wind/premium469/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
