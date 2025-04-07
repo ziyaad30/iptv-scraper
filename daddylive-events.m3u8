@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-events-epg.xml"
 
+#EXTINF:-1 tvg-id="a619ff635c7a9f17edba8a48ba679080" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Ancient Aliens: Declassified Celestial Connections (HISTORY USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
+
 #EXTINF:-1 tvg-id="d40df746b7561b4b598d1ec64f796142" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",La casa de los famosos: All-stars (TELEMUNDO USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium131/mono.m3u8
 
-#EXTINF:-1 tvg-id="3cd7d96fb85cb23fb696cc691dff0c2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Spring Baking Championship Season 11 Episode 5 (THE FOOD NETWORK)
+#EXTINF:-1 tvg-id="6a5240c592a265e64b5e63ec2c0fd937" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Love &amp; Hip Hop Miami Season 6 Episode 21 (VH1 USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
-
-#EXTINF:-1 tvg-id="a619ff635c7a9f17edba8a48ba679080" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Ancient Aliens: Declassified Celestial Connections (HISTORY USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium344/mono.m3u8
 
 #EXTINF:-1 tvg-id="a768c599c4af417b4145ec83397e608f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",90 Day: The Last Resort Season 2 Episode 19 (TLC USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -36,23 +36,11 @@ https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 
-#EXTINF:-1 tvg-id="6a5240c592a265e64b5e63ec2c0fd937" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Love &amp; Hip Hop Miami Season 6 Episode 21 (VH1 USA)
+#EXTINF:-1 tvg-id="3cd7d96fb85cb23fb696cc691dff0c2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Spring Baking Championship Season 11 Episode 5 (THE FOOD NETWORK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium344/mono.m3u8
-
-#EXTINF:-1 tvg-id="dca4ab47941d304b8aa00f44a590ae71" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Below Deck Down Under Season 3 Episode 10 (BRAVO USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
-
-#EXTINF:-1 tvg-id="f6a148fff0d722e62ad61b4259db38aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Papás por conveniencia Season 1 Episode 54 (UNIVISION USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium132/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
 
 #EXTINF:-1 tvg-id="01d833faa9df9e781ee8ed0d8c012645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Voice Season 27 Episode 10 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -66,11 +54,23 @@ https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 
+#EXTINF:-1 tvg-id="f6a148fff0d722e62ad61b4259db38aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Papás por conveniencia Season 1 Episode 54 (UNIVISION USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium132/mono.m3u8
+
 #EXTINF:-1 tvg-id="9818c899ede73871d636b37a1916a8a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mysteries of the Unknown Season 9 Episode 9 (TRAVEL CHANNEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium340/mono.m3u8
+
+#EXTINF:-1 tvg-id="dca4ab47941d304b8aa00f44a590ae71" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Below Deck Down Under Season 3 Episode 10 (BRAVO USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 
 #EXTINF:-1 tvg-id="0d5dc68e81c4a2dd399b9109dc2a3a27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera División : Tigre vs Newell's Old Boys (TNT SPORTS ARGENTINA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -96,17 +96,17 @@ https://windnew.newkso.ru/wind/premium53/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 
-#EXTINF:-1 tvg-id="0892ca4f97351e4405e38d12ffc03095" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WINTER SPORTS",2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD (TSN2)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
-
 #EXTINF:-1 tvg-id="dcbc7add4ee02ea566335c2a59fe3d2c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera División : Atlético Tucumán vs Instituto (ESPN PREMIUM ARGENTINA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium387/mono.m3u8
+
+#EXTINF:-1 tvg-id="0892ca4f97351e4405e38d12ffc03095" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WINTER SPORTS",2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD (TSN2)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
 
 #EXTINF:-1 tvg-id="6263f8ca9e238f72dce1b99fa66597a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Tigre vs Newell's Old Boys (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -204,36 +204,6 @@ https://windnew.newkso.ru/wind/premium150/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="8a43b0200aa3192c09931ce73928de83" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",HOLLYWOOD DEMONS Season 1 Episode 3 (ID USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium324/mono.m3u8
-
-#EXTINF:-1 tvg-id="331b74e089bfdb1b816a343847c1863e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",TNT Sports Conversations Season 1 Episode 4 (TRUTV USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
-
-#EXTINF:-1 tvg-id="637b7de63ab70b0cc12c2b1bfae393f0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",TMZ Presents: The Menendez Brothers: The Prison Interview (FOXNY USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-
-#EXTINF:-1 tvg-id="efacfe0eb9370f9622cc08b9623942e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Rachael Ray in Tuscany Season 1 Episode 29 (FYI USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium665/mono.m3u8
-
-#EXTINF:-1 tvg-id="3747a25d61d137d7975d9ebe45c01852" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",90 Day Diaries Season 6 Episode 1 (TLC USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium337/mono.m3u8
-
 #EXTINF:-1 tvg-id="35b944c1a323aa187dfe7c1ec242b6cf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gypsy Rose: Life After Lock Up Season 2 Episode 5 (LIFETIME NETWORK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -246,23 +216,53 @@ https://windnew.newkso.ru/wind/premium326/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 
-#EXTINF:-1 tvg-id="ee775e7c43840e9b400f7bb5b2ae4fa1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Fatal Attraction Season 15 Episode 45 (TV ONE USA)
+#EXTINF:-1 tvg-id="8a43b0200aa3192c09931ce73928de83" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",HOLLYWOOD DEMONS Season 1 Episode 3 (ID USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium660/mono.m3u8
+https://windnew.newkso.ru/wind/premium324/mono.m3u8
 
-#EXTINF:-1 tvg-id="5e1787cfcba9647d6dbdbadcb76dfd51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Celtics City Season 1 Episode 6 (HBO USA)
+#EXTINF:-1 tvg-id="637b7de63ab70b0cc12c2b1bfae393f0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",TMZ Presents: The Menendez Brothers: The Prison Interview (FOXNY USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 tvg-id="331b74e089bfdb1b816a343847c1863e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",TNT Sports Conversations Season 1 Episode 4 (TRUTV USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="efacfe0eb9370f9622cc08b9623942e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Rachael Ray in Tuscany Season 1 Episode 29 (FYI USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium665/mono.m3u8
 
 #EXTINF:-1 tvg-id="fd31b5c32ad3e5740953b28c0041257c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Peppa Pig Season 8 Episode 30 (NICK USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
+
+#EXTINF:-1 tvg-id="ee775e7c43840e9b400f7bb5b2ae4fa1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Fatal Attraction Season 15 Episode 45 (TV ONE USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium660/mono.m3u8
+
+#EXTINF:-1 tvg-id="3747a25d61d137d7975d9ebe45c01852" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",90 Day Diaries Season 6 Episode 1 (TLC USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium337/mono.m3u8
+
+#EXTINF:-1 tvg-id="5e1787cfcba9647d6dbdbadcb76dfd51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Celtics City Season 1 Episode 6 (HBO USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
 
 #EXTINF:-1 tvg-id="a1964ba4fe2b9193753da6bc54f078dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Voice Season 27 Episode 11 (NBC USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -378,17 +378,17 @@ https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 
-#EXTINF:-1 tvg-id="dd690e9646b6bef7519ae877b8e9d286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Celebrity True Crime Story Season 2 Episode 4 (BET USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium306/mono.m3u8
-
 #EXTINF:-1 tvg-id="1628aa1b185e72680d52b2fb2ced1c12" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Confessions of Octomom Season 1 Episode 5 (LIFETIME NETWORK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium326/mono.m3u8
+
+#EXTINF:-1 tvg-id="dd690e9646b6bef7519ae877b8e9d286" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Celebrity True Crime Story Season 2 Episode 4 (BET USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium306/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d40b490b15086b051d9006690590d8c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Hunting Party Season 1 Episode 10 • Finale (NBC USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -408,11 +408,11 @@ https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
 
-#EXTINF:-1 tvg-id="c163eead558f2f2b061cc691697de6c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Seattle Kraken vs Los Angeles Kings (HOME FEED)
+#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (HOME FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
 
 #EXTINF:-1 tvg-id="60bf53d285f1033f06849791386f3f9a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Anaheim Ducks (HOME FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -420,17 +420,17 @@ https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
 
-#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (HOME FEED)
+#EXTINF:-1 tvg-id="c163eead558f2f2b061cc691697de6c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Seattle Kraken vs Los Angeles Kings (HOME FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
 
-#EXTINF:-1 tvg-id="c163eead558f2f2b061cc691697de6c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Seattle Kraken vs Los Angeles Kings (AWAY FEED)
+#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (AWAY FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
 
 #EXTINF:-1 tvg-id="60bf53d285f1033f06849791386f3f9a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Anaheim Ducks (AWAY FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -438,11 +438,17 @@ https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
-#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (AWAY FEED)
+#EXTINF:-1 tvg-id="c163eead558f2f2b061cc691697de6c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Seattle Kraken vs Los Angeles Kings (AWAY FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (NBCS CALIFORNIA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium755/mono.m3u8
 
 #EXTINF:-1 tvg-id="60bf53d285f1033f06849791386f3f9a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Anaheim Ducks (V SPORT VINTER)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -456,11 +462,11 @@ https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (NBCS CALIFORNIA)
+#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (SPORTSNET ONE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium755/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
 
 #EXTINF:-1 tvg-id="60bf53d285f1033f06849791386f3f9a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Anaheim Ducks (SPORTSNET WEST)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -474,23 +480,17 @@ https://windnew.newkso.ru/wind/premium407/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8
 
-#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (SPORTSNET ONE)
+#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (SKY SPORT MIX DE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
 
 #EXTINF:-1 tvg-id="c163eead558f2f2b061cc691697de6c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Seattle Kraken vs Los Angeles Kings (FANDUEL SPORTS NETWORK WEST)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium906/mono.m3u8
-
-#EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (SKY SPORT MIX DE)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
 
 #EXTINF:-1 tvg-id="0a1ef0915cb89fafa228aa6b9df8ec85" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Calgary Flames vs San Jose Sharks (SKY SPORT TOP EVENT)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -510,12 +510,6 @@ https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
 
-#EXTINF:-1 tvg-id="4a8f1b96221ceaef40cd3ed99da2ac6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Los Angeles Kings vs Seattle Kraken (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
 #EXTINF:-1 tvg-id="c6397e7437ea556b9f547a89d67079a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Anaheim Ducks vs Edmonton Oilers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -528,23 +522,29 @@ https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
+#EXTINF:-1 tvg-id="4a8f1b96221ceaef40cd3ed99da2ac6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Los Angeles Kings vs Seattle Kraken (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium45/mono.m3u8
+
 #EXTINF:-1 tvg-id="8fb4ecf8a94c67de11d6029171ce0293" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : San Jose Sharks vs Calgary Flames (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium337/mono.m3u8
 
-#EXTINF:-1 tvg-id="4a8f1b96221ceaef40cd3ed99da2ac6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Los Angeles Kings vs Seattle Kraken (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium336/mono.m3u8
-
 #EXTINF:-1 tvg-id="c6397e7437ea556b9f547a89d67079a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Anaheim Ducks vs Edmonton Oilers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
+
+#EXTINF:-1 tvg-id="4a8f1b96221ceaef40cd3ed99da2ac6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Los Angeles Kings vs Seattle Kraken (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium336/mono.m3u8
 
 #EXTINF:-1 tvg-id="d13b5bc294fd691d1fbbfdf0a49e38bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Celebrity True Crime Story Season 2 Episode 8 (BET USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -834,17 +834,17 @@ https://windnew.newkso.ru/wind/premium465/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/premium400/mono.m3u8
 
-#EXTINF:-1 tvg-id="c40c520452ac69db075ddd169a88d8c5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romania - Liga I : Farul Constanța vs Unirea Slobozia (PRIMA SPORT 1 ROMANIA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
-
 #EXTINF:-1 tvg-id="2e7fa4e4bbb31ba5545e03395f2b47d5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Spartak Varna (SPORT KLUB 3 CROATIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="c40c520452ac69db075ddd169a88d8c5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romania - Liga I : Farul Constanța vs Unirea Slobozia (PRIMA SPORT 1 ROMANIA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
 
 #EXTINF:-1 tvg-id="a4821706307c9f2f255205d7e2726fd3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/snooker-logo.png" group-title="SNOOKER",World Snooker - World Snooker Championship Day 1 (TNT SPORTS 5 UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -900,17 +900,17 @@ https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 
-#EXTINF:-1 tvg-id="97ce910f2720683fe53a585703b9d742" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Atromitos vs Asteras Tripoli (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
 #EXTINF:-1 tvg-id="7a2dc5f8fa52825b9e35b1d56f028e6e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Lok. Plovdiv vs Spartak Varna (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="97ce910f2720683fe53a585703b9d742" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Atromitos vs Asteras Tripoli (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-id="e0e908ac76f2cd953dc1c4d538808308" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Polissya Zhytomyr vs Karpaty Lviv (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -918,17 +918,17 @@ https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
-#EXTINF:-1 tvg-id="97ce910f2720683fe53a585703b9d742" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Atromitos vs Asteras Tripoli (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium325/mono.m3u8
-
 #EXTINF:-1 tvg-id="7a2dc5f8fa52825b9e35b1d56f028e6e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Lok. Plovdiv vs Spartak Varna (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+
+#EXTINF:-1 tvg-id="97ce910f2720683fe53a585703b9d742" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Atromitos vs Asteras Tripoli (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium325/mono.m3u8
 
 #EXTINF:-1 tvg-id="a5121b71e2fd13cc3290f719d01e4c38" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Super League : Hapoel Haifa vs Hapoel Galil Elyon (SPORT 5 GOLD ISRAEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -942,23 +942,17 @@ https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
 
-#EXTINF:-1 tvg-id="8046cb0987e7ea9b6cd4428aec83c6c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Simulcast (ARENA 2 PREMIUM SERBIA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="26a6010517eff968a91936e2d94d8e2a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Liga Leumit : Hapoel Kfar Shalem vs Maccabi Herzliya (SPORT 5 STARS ISRAEL)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-
 #EXTINF:-1 tvg-id="35f39795666f8b901a05ae4f2504a2ed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Liga Leumit : Hapoel Tel Aviv vs Bnei Yehuda (SPORT 5 PLUS ISRAEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="2c8e19aa41996865c59f835e2a35a941" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Mali U17 vs Côte d'Ivoire U17 (BEIN SPORTS MENA 8)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
 #EXTINF:-1 tvg-id="77fa6b6b271e0aac8f5c901af93f36fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Angola U17 vs Central African Rep. U17 (BEIN SPORTS MENA 6)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -978,17 +972,17 @@ https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium911/mono.m3u8
 
-#EXTINF:-1 tvg-id="2c8e19aa41996865c59f835e2a35a941" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Mali U17 vs Côte d'Ivoire U17 (BEIN SPORTS MENA 8)
+#EXTINF:-1 tvg-id="8046cb0987e7ea9b6cd4428aec83c6c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Simulcast (ARENA 2 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="304b01c281743c4d7603b6bdfcb5d3ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Čukarički vs IMT Novi Beograd (ARENA SPORT 5 SERBIA)
+#EXTINF:-1 tvg-id="26a6010517eff968a91936e2d94d8e2a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Liga Leumit : Hapoel Kfar Shalem vs Maccabi Herzliya (SPORT 5 STARS ISRAEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 
 #EXTINF:-1 tvg-id="17a187ffad1e9a97b7f104d2da9f30a7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Bačka Topola vs Železničar Pančevo (ARENA SPORT 3 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1001,6 +995,12 @@ https://windnew.newkso.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="304b01c281743c4d7603b6bdfcb5d3ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Čukarički vs IMT Novi Beograd (ARENA SPORT 5 SERBIA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-id="7c64a720fd45458b8a5b93274473e0ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Serbia - Super Liga : Mladost Lučani vs Vojvodina (ARENA SPORT 1 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1104,23 +1104,17 @@ https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium600/mono.m3u8
 
-#EXTINF:-1 tvg-id="ec9730755ef7b349bc79335b85a6b5b5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Göztepe vs Gaziantep FK (BEIN SPORTS 2 TURKEY)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
-
-#EXTINF:-1 tvg-id="b1aac68f97543127240a2b8e288d8b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Kasımpaşa vs Beşiktaş (BEIN SPORTS 1 TURKEY)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
-
 #EXTINF:-1 tvg-id="0b3ae0bf54ff93698fab7e238de99181" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : CSKA 1948 vs Ludogorets (DIEMA SPORT BULGARIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium465/mono.m3u8
+
+#EXTINF:-1 tvg-id="ec9730755ef7b349bc79335b85a6b5b5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Göztepe vs Gaziantep FK (BEIN SPORTS 2 TURKEY)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
 
 #EXTINF:-1 tvg-id="378212707063394317b9c00170e81806" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Denmark - Super Liga : Brøndby vs AGF (TV2 SPORT X DENMARK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1128,29 +1122,29 @@ https://windnew.newkso.ru/wind/premium465/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8
 
-#EXTINF:-1 tvg-id="6edee87dc08be3fcdcba0a95f9bfee95" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa (CANAL+ SPORT 3 POLAND)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium259/mono.m3u8
-
 #EXTINF:-1 tvg-id="184d3267ad4d1e5c27d30ffa5a0d9925" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Ligat Ha'Al : Hapoel Hadera vs Bnei Sakhnin (SPORT 1 ISRAEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
 
-#EXTINF:-1 tvg-id="b1aac68f97543127240a2b8e288d8b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Kasımpaşa vs Beşiktaş (BEIN SPORTS USA)
+#EXTINF:-1 tvg-id="6edee87dc08be3fcdcba0a95f9bfee95" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa (CANAL+ SPORT 3 POLAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
+https://windnew.newkso.ru/wind/premium259/mono.m3u8
 
-#EXTINF:-1 tvg-id="ec9730755ef7b349bc79335b85a6b5b5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Göztepe vs Gaziantep FK (BEIN SPORTS MAX 5 FRANCE)
+#EXTINF:-1 tvg-id="b1aac68f97543127240a2b8e288d8b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Kasımpaşa vs Beşiktaş (BEIN SPORTS 1 TURKEY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
+
+#EXTINF:-1 tvg-id="6edee87dc08be3fcdcba0a95f9bfee95" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa (CANAL+ SPORT 5 POLAND)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium75/mono.m3u8
 
 #EXTINF:-1 tvg-id="378212707063394317b9c00170e81806" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Denmark - Super Liga : Brøndby vs AGF (ARENA SPORT 1X2 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1158,11 +1152,17 @@ https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 
-#EXTINF:-1 tvg-id="6edee87dc08be3fcdcba0a95f9bfee95" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland - Ekstraklasa : Puszcza Niepołomice vs Raków Częstochowa (CANAL+ SPORT 5 POLAND)
+#EXTINF:-1 tvg-id="ec9730755ef7b349bc79335b85a6b5b5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Göztepe vs Gaziantep FK (BEIN SPORTS MAX 5 FRANCE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium75/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
+
+#EXTINF:-1 tvg-id="b1aac68f97543127240a2b8e288d8b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Kasımpaşa vs Beşiktaş (BEIN SPORTS USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 
 #EXTINF:-1 tvg-id="aee643f10f7cd487b9b60b1dad0369b6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/snooker-logo.png" group-title="SNOOKER",Ultimate Pool Champions League | Group Stage (TNT SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1176,11 +1176,11 @@ https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="ab43506f04bd0ad4f6bdce05f0bfd872" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Czech Republic 1st Liga : HC Dukla Jihlava vs. PSG Berani Zlin (CT SPORT CZECH HD)
+#EXTINF:-1 tvg-id="348020e8c174dfb97ce433154d8fe165" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",HockeyAllsvenskan : AIK vs BIK Karlskoga (TV4 HOCKEY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium700/mono.m3u8
 
 #EXTINF:-1 tvg-id="b1aac68f97543127240a2b8e288d8b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Kasımpaşa vs Beşiktaş (BEIN SPORTS EN ESPAÑOL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1188,11 +1188,11 @@ https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium372/mono.m3u8
 
-#EXTINF:-1 tvg-id="348020e8c174dfb97ce433154d8fe165" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",HockeyAllsvenskan : AIK vs BIK Karlskoga (TV4 HOCKEY)
+#EXTINF:-1 tvg-id="ab43506f04bd0ad4f6bdce05f0bfd872" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Czech Republic 1st Liga : HC Dukla Jihlava vs. PSG Berani Zlin (CT SPORT CZECH HD)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium700/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 
 #EXTINF:-1 tvg-id="ec9730755ef7b349bc79335b85a6b5b5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Göztepe vs Gaziantep FK (BEIN SPORTS MENA 5)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1248,23 +1248,17 @@ https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 
-#EXTINF:-1 tvg-id="344e61d74c08469f8f6a470ee99fcb36" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Brondby IF vs AGF (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
-
 #EXTINF:-1 tvg-id="c098d2661a2aff8eb4a7dda9c1f156a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Goztepe vs Gaziantep FK (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
 
-#EXTINF:-1 tvg-id="fc94b07e5ef47148372bf8582270afc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Varberg vs Orebro (EXTRA STREAM)
+#EXTINF:-1 tvg-id="344e61d74c08469f8f6a470ee99fcb36" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Brondby IF vs AGF (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 
 #EXTINF:-1 tvg-id="29cf7389f09416cc2b66d977963999ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Brage vs Falkenberg (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1284,17 +1278,23 @@ https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium376/mono.m3u8
 
-#EXTINF:-1 tvg-id="8eb29e2fc1fda99d239fae66dd7e2d56" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : CSKA 1948 Sofia vs Ludogorets (EXTRA STREAM)
+#EXTINF:-1 tvg-id="fc94b07e5ef47148372bf8582270afc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Varberg vs Orebro (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 
 #EXTINF:-1 tvg-id="21883210ea77a317820162b3e67987d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Puszcza vs Rakow (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium360/mono.m3u8
+
+#EXTINF:-1 tvg-id="8eb29e2fc1fda99d239fae66dd7e2d56" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : CSKA 1948 Sofia vs Ludogorets (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
 
 #EXTINF:-1 tvg-id="c098d2661a2aff8eb4a7dda9c1f156a5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Goztepe vs Gaziantep FK (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1338,17 +1338,17 @@ https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 
-#EXTINF:-1 tvg-id="608304126352b34e35c5153b845c39cb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Ligat Ha'Al : Maccabi Haifa vs Hapoel Be'er Sheva (SPORT 5 ISRAEL)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
 #EXTINF:-1 tvg-id="3e34742ce87e9ae894b6f3ae8308dc6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romania - Liga I : CFR Cluj vs CSU Craiova (DIGI SPORT 1 ROMANIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/premium400/mono.m3u8
+
+#EXTINF:-1 tvg-id="608304126352b34e35c5153b845c39cb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Israel - Ligat Ha'Al : Maccabi Haifa vs Hapoel Be'er Sheva (SPORT 5 ISRAEL)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
 #EXTINF:-1 tvg-id="3e34742ce87e9ae894b6f3ae8308dc6c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romania - Liga I : CFR Cluj vs CSU Craiova (PRIMA SPORT 1 ROMANIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1416,6 +1416,12 @@ https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
+#EXTINF:-1 tvg-id="35e7a4f306dff3ba24289447583bf4ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Pictionary Season 3 Episode 126 (FOXNY USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+
 #EXTINF:-1 tvg-id="cc0912a96f71ad891bd02c7d4aace17a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Beyond the Gates Season 1 Episode 29 (CBSNY USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -1428,23 +1434,11 @@ https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium131/mono.m3u8
 
-#EXTINF:-1 tvg-id="35e7a4f306dff3ba24289447583bf4ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Pictionary Season 3 Episode 126 (FOXNY USA)
+#EXTINF:-1 tvg-id="a508e17f3a66f31044b05c77157a8f17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Hungary - NB II : Mezőkövesd-Zsóry vs Vasas (M4 SPORT HUNGARY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-
-#EXTINF:-1 tvg-id="595a734c7f595326c7b269289ecf1d7d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Premier League 2 : Reading U21 vs Manchester United U21 (MUTV UK)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium377/mono.m3u8
-
-#EXTINF:-1 tvg-id="e3acb48ce5eaf7ca22d54fe49211d9e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Albania - Superliga : Tirana vs Partizani Tirana (RTSH SPORT ALBANIA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
 
 #EXTINF:-1 tvg-id="5c715ffe68d0cb6797567c51196002d9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Netherlands - Eerste Divisie : Utrecht II vs ADO Den Haag (ESPN 1 NL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1452,11 +1446,17 @@ https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
 
-#EXTINF:-1 tvg-id="a508e17f3a66f31044b05c77157a8f17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Hungary - NB II : Mezőkövesd-Zsóry vs Vasas (M4 SPORT HUNGARY)
+#EXTINF:-1 tvg-id="e3acb48ce5eaf7ca22d54fe49211d9e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Albania - Superliga : Tirana vs Partizani Tirana (RTSH SPORT ALBANIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="595a734c7f595326c7b269289ecf1d7d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Premier League 2 : Reading U21 vs Manchester United U21 (MUTV UK)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium377/mono.m3u8
 
 #EXTINF:-1 tvg-id="a85b9cf9d22fa326b42abe05ea4d0664" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Italy Serie A : Universo Treviso Basket vs. Virtus Bologna (POLSAT SPORT 3 POLAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1494,12 +1494,6 @@ https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
 
-#EXTINF:-1 tvg-id="06fc8d56d3cb206f3f3a5ff26fb0ba1d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Reading U21 vs Manchester United U21 (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium309/mono.m3u8
-
 #EXTINF:-1 tvg-id="8c15151539c969c796ad6dbc59541b93" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Jong AZ vs Jong PSV (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -1518,6 +1512,12 @@ https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
 
+#EXTINF:-1 tvg-id="06fc8d56d3cb206f3f3a5ff26fb0ba1d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Reading U21 vs Manchester United U21 (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium309/mono.m3u8
+
 #EXTINF:-1 tvg-id="8c15151539c969c796ad6dbc59541b93" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Jong AZ vs Jong PSV (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -1529,6 +1529,12 @@ https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
+
+#EXTINF:-1 tvg-id="1aeb30ca804a31771c51f55ebb727cdc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie C : AlbinoLeffe vs Pro Vercelli (SKY SPORT 252 IT)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
 #EXTINF:-1 tvg-id="663f6b891f3511335de92fd3ff91ffaf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera División : Deportivo Riestra vs Platense (ESPN PREMIUM ARGENTINA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1542,12 +1548,6 @@ https://windnew.newkso.ru/wind/premium387/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
 
-#EXTINF:-1 tvg-id="1aeb30ca804a31771c51f55ebb727cdc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie C : AlbinoLeffe vs Pro Vercelli (SKY SPORT 252 IT)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
 #EXTINF:-1 tvg-id="bfb0144496d6d6966e8fe498e66a15f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Elche vs Racing Ferrol (LALIGA TV HYPERMOTION)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -1559,6 +1559,12 @@ https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="bfb0144496d6d6966e8fe498e66a15f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Elche vs Racing Ferrol (NOVA SPORTS START GREECE)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
 
 #EXTINF:-1 tvg-id="1aeb30ca804a31771c51f55ebb727cdc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie C : AlbinoLeffe vs Pro Vercelli (SKY SPORT ARENA IT)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1572,23 +1578,17 @@ https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="cff45f8ab3888afecc80a5af68cfff01" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie C : Giugliano vs Casertana (SKY SPORT MAX IT)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
-
-#EXTINF:-1 tvg-id="bfb0144496d6d6966e8fe498e66a15f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Elche vs Racing Ferrol (NOVA SPORTS START GREECE)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
-
 #EXTINF:-1 tvg-id="bf709abc151544969fbc2ee7e68527e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Poland Superliga : KPR Legionowo vs. Wybrzeze Gdansk (POLSAT SPORT 2 POLAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="cff45f8ab3888afecc80a5af68cfff01" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie C : Giugliano vs Casertana (SKY SPORT MAX IT)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
 
 #EXTINF:-1 tvg-id="bfb0144496d6d6966e8fe498e66a15f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Elche vs Racing Ferrol (ARENA SPORT 3 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1620,12 +1620,6 @@ https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
 
-#EXTINF:-1 tvg-id="3bb9404546d743217164f66e1feceb7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Elche vs Racing Ferrol (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium342/mono.m3u8
-
 #EXTINF:-1 tvg-id="b6cb28830c3b31ff9c995711afe09be3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Deportivo Riestra vs Platense (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -1636,13 +1630,19 @@ https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium340/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium342/mono.m3u8
 
 #EXTINF:-1 tvg-id="b6cb28830c3b31ff9c995711afe09be3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Deportivo Riestra vs Platense (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium329/mono.m3u8
+
+#EXTINF:-1 tvg-id="3bb9404546d743217164f66e1feceb7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Elche vs Racing Ferrol (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium340/mono.m3u8
 
 #EXTINF:-1 tvg-id="3bb9404546d743217164f66e1feceb7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Elche vs Racing Ferrol (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1656,23 +1656,17 @@ https://windnew.newkso.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 
-#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (BEIN SPORTS 1 FRANCE)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-
 #EXTINF:-1 tvg-id="b8263295af6785d28e8ad94d3d1e04fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie A : Bologna vs Napoli (DAZN ZONA IT)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (ARENA SPORT 5 SERBIA)
+#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (BEIN SPORTS 1 FRANCE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
 #EXTINF:-1 tvg-id="b8263295af6785d28e8ad94d3d1e04fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie A : Bologna vs Napoli (DAZN2 DE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1680,11 +1674,11 @@ https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (BEIN SPORTS MENA 4)
+#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (ARENA SPORT 5 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-id="b8263295af6785d28e8ad94d3d1e04fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie A : Bologna vs Napoli (SPORT TV4 PORTUGAL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1692,17 +1686,23 @@ https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 
-#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (SPORT 5 STARS ISRAEL)
+#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (BEIN SPORTS MENA 4)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 
 #EXTINF:-1 tvg-id="b8263295af6785d28e8ad94d3d1e04fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie A : Bologna vs Napoli (ABU DHABI SPORTS PREMIUM 1)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
+
+#EXTINF:-1 tvg-id="d7c7a6f8701a8e49d4a2b31e3dc64620" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",France - Ligue 2 : Dunkerque vs Guingamp (SPORT 5 STARS ISRAEL)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 
 #EXTINF:-1 tvg-id="b8263295af6785d28e8ad94d3d1e04fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Italy - Serie A : Bologna vs Napoli (ELEVEN SPORTS 1 POLAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1854,11 +1854,11 @@ https://windnew.newkso.ru/wind/premium407/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-#EXTINF:-1 tvg-id="58a82ec3cbaac47051e49f31198160fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 125 (NBCNY USA)
+#EXTINF:-1 tvg-id="5e350e2ca66ba167b9a4012f71ebf7e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 145 (ABC NY USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
 
 #EXTINF:-1 tvg-id="631dc4bc825dbc06d4283fabc674ef55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Paul Finebaum Show Live (SEC NETWORK USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1866,23 +1866,11 @@ https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
 
-#EXTINF:-1 tvg-id="5e350e2ca66ba167b9a4012f71ebf7e7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 145 (ABC NY USA)
+#EXTINF:-1 tvg-id="58a82ec3cbaac47051e49f31198160fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 125 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (M+ LALIGA TV)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium84/mono.m3u8
-
-#EXTINF:-1 tvg-id="3e8991959ff4be65408dca3a35dd2166" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Gambia U17 vs Tunisia U17 (BEIN SPORTS MENA 6)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 
 #EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (OPTUS SPORT)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1890,11 +1878,23 @@ https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8
 
+#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (M+ LALIGA TV)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium84/mono.m3u8
+
 #EXTINF:-1 tvg-id="e82a6270fb64abb321cc4b092f118ded" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Senegal U17 vs Somalia U17 (BEIN SPORTS MENA 8)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
+
+#EXTINF:-1 tvg-id="3e8991959ff4be65408dca3a35dd2166" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",CAF U17 Championship : Gambia U17 vs Tunisia U17 (BEIN SPORTS MENA 6)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 
 #EXTINF:-1 tvg-id="6d9a005f65a9b9e9e0ff32b4098d9ded" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Wanderers vs Defensor Sporting (VTV+ URUGUAY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1926,11 +1926,11 @@ https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 
-#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (VIAPLAY SPORTS 1 UK)
+#EXTINF:-1 tvg-id="0892ca4f97351e4405e38d12ffc03095" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WINTER SPORTS",2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD (TSN2)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
 
 #EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (SKY SPORTS PREMIER LEAGUE UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1938,17 +1938,23 @@ https://windnew.newkso.ru/wind/premium451/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
 
-#EXTINF:-1 tvg-id="0892ca4f97351e4405e38d12ffc03095" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WINTER SPORTS",2025 BKT World Men's Curling Championship: Gold - TBD vs. TBD (TSN2)
+#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
 
 #EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (SONY TEN 1)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium885/mono.m3u8
+
+#EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (SONY TEN 3)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium887/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (PREMIER SPORTS 1 IRELAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -1962,23 +1968,17 @@ https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 
-#EXTINF:-1 tvg-id="98ca7e1b711db0534fe65b1e46ca9628" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (SONY TEN 3)
+#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (DAZN1 DE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium887/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 
 #EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (NBC UNIVERSO USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium845/mono.m3u8
-
-#EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (DAZN1 DE)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 
 #EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (SKY SPORT 8 NZ)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2070,23 +2070,17 @@ https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium463/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (CYTAVISION SPORTS 3 CYPRUS)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium913/mono.m3u8
-
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (NOVA SPORTS 1 GREECE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (CANAL+ SPORT 3 AFRIQUE)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (CYTAVISION SPORTS 3 CYPRUS)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
+https://windnew.newkso.ru/wind/premium913/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (ARENA SPORT 4 CROATIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2094,11 +2088,11 @@ https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (BEIN SPORTS 3 TURKEY)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (CANAL+ SPORT 3 AFRIQUE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (TV4 SPORT LIVE 2)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2106,11 +2100,11 @@ https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium704/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (ASTRO PREMIER LEAGUE)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (BEIN SPORTS 3 TURKEY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (MAX SPORT 4 BULGARIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2118,11 +2112,11 @@ https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium475/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (ASTRO GRANDSTAND)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (ASTRO PREMIER LEAGUE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (SUPERSPORT LALIGA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2130,11 +2124,11 @@ https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (DIGI SPORT 2 ROMANIA)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (ASTRO GRANDSTAND)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top2new.newkso.ru/top2/premium401/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (BEIN SPORTS MENA 3)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2142,17 +2136,23 @@ https://top2new.newkso.ru/top2/premium401/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
 
-#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (PRIMA SPORT 3 ROMANIA)
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (DIGI SPORT 2 ROMANIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
+https://top2new.newkso.ru/top2/premium401/mono.m3u8
 
 #EXTINF:-1 tvg-id="323caea1c1160f7fb1e19a44470a2525" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - La Liga : Leganés vs Osasuna (BEIN SPORTS MENA ENGLISH 2)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
+
+#EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (PRIMA SPORT 3 ROMANIA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
 
 #EXTINF:-1 tvg-id="f4e700067b54fcc9e6ef6b9e164c584a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - Premier League : Leicester City vs Newcastle United (ARENA 1 PREMIUM SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2262,17 +2262,17 @@ https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
-#EXTINF:-1 tvg-id="a98575b5dbe78f3a6c1f28c9b96193ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Leganes vs Osasuna (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
-
 #EXTINF:-1 tvg-id="7d4eb5057c1c8501586c9849d169222b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Leicester City vs Newcastle United (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium408/mono.m3u8
+
+#EXTINF:-1 tvg-id="a98575b5dbe78f3a6c1f28c9b96193ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Leganes vs Osasuna (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
 
 #EXTINF:-1 tvg-id="a98575b5dbe78f3a6c1f28c9b96193ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Soccer : Leganes vs Osasuna (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2580,23 +2580,17 @@ https://nfsnew.newkso.ru/nfs/premium29/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
 
-#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
-
 #EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
 
-#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (NESN USA)
+#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
 
 #EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2604,11 +2598,11 @@ https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium260/mono.m3u8
 
-#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (SPORTSNET EAST)
+#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (NESN USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium408/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
 
 #EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (BEIN SPORTS 4 MAX FRANCE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2616,17 +2610,23 @@ https://windnew.newkso.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
 
-#EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (MASN USA)
+#EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (SPORTSNET EAST)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium829/mono.m3u8
+https://windnew.newkso.ru/wind/premium408/mono.m3u8
 
 #EXTINF:-1 tvg-id="425fb829226d3ad29459f90562853de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Toronto Blue Jays vs Boston Red Sox (SPORTSNET 360)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
+
+#EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (MASN USA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium829/mono.m3u8
 
 #EXTINF:-1 tvg-id="3a952e1367242cb8cba42dd2eaaea93e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs Washington Nationals (SPORT 5 LIVE ISRAEL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2652,17 +2652,23 @@ https://windnew.newkso.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium764/mono.m3u8
 
+#EXTINF:-1 tvg-id="90be6d45aff4574509a67af443e1ffd3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Toronto Blue Jays (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
+
 #EXTINF:-1 tvg-id="62fc3547aacc7827ee1af119274434c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Los Angeles Dodgers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 tvg-id="90be6d45aff4574509a67af443e1ffd3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Toronto Blue Jays (EXTRA STREAM)
+#EXTINF:-1 tvg-id="1383057188833c753beef65d1bb7c84d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Live From the Masters Episode 2 (GOLF CHANNEL USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-id="5472167163273e88297e15a77417313b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",College GameDay (ESPN USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2675,12 +2681,6 @@ https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 tvg-id="1383057188833c753beef65d1bb7c84d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Live From the Masters Episode 2 (GOLF CHANNEL USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-id="72e06cf998c66e345b547b2743553c28" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Campeonato Brasileiro De Futebol Sub-20 : São Paulo vs Corinthians (SPORTV BRAZIL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2712,23 +2712,17 @@ https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 
-#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (NBA TV USA)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
 #EXTINF:-1 tvg-id="8851818781082e9784e291fbd497099e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Tampa Bay Lightning vs New York Rangers (MSG USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
 
-#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (NBCS CALIFORNIA USA)
+#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (NBA TV USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium755/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
 
 #EXTINF:-1 tvg-id="8851818781082e9784e291fbd497099e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Tampa Bay Lightning vs New York Rangers (VIAPLAY SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2736,17 +2730,23 @@ https://windnew.newkso.ru/wind/premium755/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium550/mono.m3u8
 
-#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (MOVISTAR DEPORTES 2 SPAIN)
+#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (NBCS CALIFORNIA USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
+https://windnew.newkso.ru/wind/premium755/mono.m3u8
 
 #EXTINF:-1 tvg-id="8851818781082e9784e291fbd497099e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Tampa Bay Lightning vs New York Rangers (TV3 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
+
+#EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (MOVISTAR DEPORTES 2 SPAIN)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 
 #EXTINF:-1 tvg-id="7ca9e8be87c56b64e26ba8240e221c2f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Sacramento Kings vs Detroit Pistons (ARENA PREMIUM 2 SERBIA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2850,23 +2850,17 @@ https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium397/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (HOME FEED)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
-
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (HOME FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (AWAY FEED)
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (HOME FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (AWAY FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2874,11 +2868,11 @@ https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (VIAPLAY SPORTS 1 UK)
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (AWAY FEED)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
 
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (BALLY SPORTS SUN)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2886,11 +2880,11 @@ https://windnew.newkso.ru/wind/premium451/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (SPORT TV4 PORTUGAL)
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
 
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (NBCS PHILADELPHIA USA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2898,17 +2892,23 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium777/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (MAX SPORT 2 BULGARIA)
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (SPORT TV4 PORTUGAL)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (SPORTSNET ONE)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (MAX SPORT 2 BULGARIA)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
 
 #EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (V SPORT PREMIUM SWEDEN)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2922,17 +2922,17 @@ https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (FANDUEL SPORTS NETWORK MIDWEST)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium896/mono.m3u8
-
 #EXTINF:-1 tvg-id="4cb4d745b9e670376b6d5ec6ad59c7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Philadelphia 76ers vs Miami Heat (TV4 SPORTKANALEN)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (FANDUEL SPORTS NETWORK MIDWEST)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium896/mono.m3u8
 
 #EXTINF:-1 tvg-id="477c75f12aea356d1feab12a839c64dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : St. Louis Blues vs Winnipeg Jets (FANDUEL SPORTS NETWORK INDIANA)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -2964,17 +2964,17 @@ https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium61/mono.m3u8
 
-#EXTINF:-1 tvg-id="ea927a58d3335759c1ad0633127f1329" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Winnipeg Jets vs St. Louis Blues (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium43/mono.m3u8
-
 #EXTINF:-1 tvg-id="21365d032096d4c76eeba23f8561ed51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Miami Heat vs Philadelphia 76ers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium41/mono.m3u8
+
+#EXTINF:-1 tvg-id="ea927a58d3335759c1ad0633127f1329" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Winnipeg Jets vs St. Louis Blues (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium43/mono.m3u8
 
 #EXTINF:-1 tvg-id="21365d032096d4c76eeba23f8561ed51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Miami Heat vs Philadelphia 76ers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -3012,23 +3012,17 @@ https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 
-#EXTINF:-1 tvg-id="90dd32aa1aada678810a8da3181e7c88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago Cubs (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
-
 #EXTINF:-1 tvg-id="20cd7ca7027ab7163f1ddcdcde003a20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Kansas City Royals (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
 
-#EXTINF:-1 tvg-id="90dd32aa1aada678810a8da3181e7c88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago Cubs (TNT SPORTS 1 UK)
+#EXTINF:-1 tvg-id="90dd32aa1aada678810a8da3181e7c88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago Cubs (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
 
 #EXTINF:-1 tvg-id="20cd7ca7027ab7163f1ddcdcde003a20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Kansas City Royals (FANDUEL SPORTS NETWORK KANSAS CITY)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -3036,23 +3030,29 @@ https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium895/mono.m3u8
 
+#EXTINF:-1 tvg-id="90dd32aa1aada678810a8da3181e7c88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago Cubs (TNT SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
 #EXTINF:-1 tvg-id="90dd32aa1aada678810a8da3181e7c88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Texas Rangers vs Chicago Cubs (MARQUEE SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium770/mono.m3u8
 
-#EXTINF:-1 tvg-id="d845006f41972c2e6a093c721dfc1408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Chicago Cubs vs Texas Rangers (EXTRA STREAM)
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
-
 #EXTINF:-1 tvg-id="dfbc5d8db4298ad548c79118aaa2ef42" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Minnesota Twins (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="d845006f41972c2e6a093c721dfc1408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Chicago Cubs vs Texas Rangers (EXTRA STREAM)
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
 
 #EXTINF:-1 tvg-id="d845006f41972c2e6a093c721dfc1408" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Chicago Cubs vs Texas Rangers (EXTRA STREAM)
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
