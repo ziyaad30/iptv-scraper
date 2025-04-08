@@ -1,6 +1,6 @@
 ### M3U8 Playlist
 - ```https://iptv-scraper-re.vercel.app/roxiestreams```
-- ```https://iptv-scraper-re.vercel.app/ppvland```
+- ```https://iptv-scraper-re.vercel.app/ppvland  (?timezone=pt) ["pt", "mt", "et", "gmt", "cet", "pht"]```
 - ```https://iptv-scraper-re.vercel.app/streambtw```
 - ```https://iptv-scraper-re.vercel.app/nbawebcast```
 - ```https://iptv-scraper-re.vercel.app/mlbwebcast```
