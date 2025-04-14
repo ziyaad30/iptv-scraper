@@ -246,3 +246,6 @@ Arena.Sport.7.HD.hr
 Celestial.Movies.Pinoy.ph
 Cg.Tvnpre.ph
 USA.Network.-.East.Feed.us
+TNT.-.Eastern.Feed.us
+Paramount.Network.USA.-.Eastern.Feed.us
+Aniplus.id
