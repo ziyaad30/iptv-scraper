@@ -876,6 +876,12 @@ https://top1new.newkso.ru/top1/premium400/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top1new.newkso.ru/top1/premium401/mono.m3u8
 
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="ROMANIA",Digi Sport 3 Romania
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top1new.newkso.ru/top1/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="ROMANIA",Digi Sport 4 Romania
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
@@ -2321,6 +2327,18 @@ https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-sport-3-ro.png" group-title="ROMANIA",Prima Sport 3
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/premium585/mono.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-sport-4-ro.png" group-title="ROMANIA",Prima Sport 4
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/premium586/mono.m3u8
 
 #EXTINF:-1 tvg-id="Prima.TV.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-tv-ro.png" group-title="ROMANIA",Prima TV RO
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
@@ -3815,6 +3833,12 @@ https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium133/mono.m3u8
+
+#EXTINF:-1 tvg-id="Universal.Kids.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/universal-kids-us.png" group-title="UNITED STATES",Universal Kids USA
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium668/mono.m3u8
 
 #EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/univision-us.png" group-title="UNITED STATES",Univision
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
